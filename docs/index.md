@@ -1,7 +1,7 @@
 
 # Welcome to the UArizona Vision Systems and Intelligence (VSI)  Github!
 
-![Vision Systems and Intelligence (VSI) Laboratory](){width=1200}
+Vision Systems and Intelligence (VSI) Laboratory was established in 2023 with the primary objective of researching computer vision, medical image analysis, and deep learning.
 
 ***
 
@@ -49,8 +49,6 @@
 
 ***
 
-
-Vision Systems and Intelligence (VSI) Laboratory was established in 2023 with the primary objective of researching computer vision, medical image analysis, and deep learning.
 
 
 <!-- |  | Sponsor organizations | |
