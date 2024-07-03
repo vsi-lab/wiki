@@ -11,11 +11,6 @@ Vision Systems and Intelligence (VSI) Laboratory was established in 2023 with th
 
 ## Notes and code repositories  
 
-* [Bioinformatics & Genomics](https://github.com/ua-datalab/Bioinformatics/wiki)
-* [Classical Machine Learning](https://github.com/ua-datalab/MLWorkshops/wiki)
-* [Craking the Coding Interview](https://github.com/ua-datalab/cracking_the_coding_interview)
-* [Data Engineering Technologies](https://github.com/ua-datalab/DataEngineering)
-* [Data Science Tapas](https://github.com/ua-datalab/DataScienceTapas/wiki)
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
 * [Introduction to Data Science](https://github.com/ua-datalab/Workshops/wiki)
