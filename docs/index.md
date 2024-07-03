@@ -1,6 +1,6 @@
 
 # Welcome to the UArizona Vision Systems and Intelligence (VSI)  Github!
-The Vision Systems and Intelligence (VSI) Laboratory focuses on research in computer vision, medical image analysis, and deep learning.
+Our laboratory focuses on research in computer vision, medical image analysis, and deep learning.
 
 ***
 ## Notes and code repositories
