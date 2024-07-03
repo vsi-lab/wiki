@@ -37,7 +37,6 @@ The Vision Systems and Intelligence (VSI) Laboratory focuses on research in comp
 <!-- * Workshop videorecordings [YouTube Channel](https://www.youtube.com/@UArizonaDataLab)
 * Questions / Contact Us: UA Data Science Slack (uadatascience.slack.com) `#datalab-chatter` -->
 
-***
 
 <!-- Please visit the UArizona [**Data Science Institute Events Calendar**](https://www.datascience.arizona.edu/calendar) for more detailed information. -->
 
