@@ -36,8 +36,8 @@ theme:
   # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: gold
+      accent: gold
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
