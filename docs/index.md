@@ -23,7 +23,7 @@ The Vision Systems and Intelligence (VSI) Laboratory focuses on research in comp
 
 ***
 
-## UArizona vsilab Social 
+## UArizona VSI Lab Github 
 
 * [Github](https://github.com/vsilab/)
 <!-- * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/) -->
