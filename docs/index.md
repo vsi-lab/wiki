@@ -3,7 +3,7 @@
 The Vision Systems and Intelligence (VSI) Laboratory focuses on research in computer vision, medical image analysis, and deep learning.
 
 ***
-## Notes and code repositories  
+## Notes and code repositories (Provided by UArizona Datalab/)
 
 * [Deep Learning](https://github.com/ua-datalab/DLWorkshops/wiki)
 * [Graph Machine Learning](https://github.com/ua-datalab/GraphML)
@@ -16,7 +16,7 @@ The Vision Systems and Intelligence (VSI) Laboratory focuses on research in comp
 
 ***
 
-## Other resources
+## Project Lists
 * [ Projects](https://sites.google.com/view/eungjoolee/projects)
 
 
