@@ -3,11 +3,6 @@
 
 The Vision Systems and Intelligence (VSI) Laboratory focuses on research in computer vision, medical image analysis, and deep learning.
 
-***
-
-# Research Interests
-
-***
 
 ## Notes and code repositories  
 
