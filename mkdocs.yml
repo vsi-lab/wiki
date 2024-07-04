@@ -1,6 +1,9 @@
 site_name: VSI Lab
 site_description: Training materials on tools and methods for image analysis and deep learning. 
 site_url: https://vsilab.github.io
+
+repo_name: 'UArizona Vision Systems and Intelligence Lab'
+repo_url: 'https://github.com/vsi-lab/wiki'
 nav:
   - 'Home':
     - 'Home': index.md
@@ -49,6 +52,13 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+  favicon: assets/favicon.png  
+  logo: assets/favicon.png
+
+  extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/squidfunk
   
   markdown_extensions:
     - admonition
