@@ -1,7 +1,8 @@
 
 # Welcome to the UArizona Vision Systems and Intelligence (VSI)  Github!
 
-![UA DataLab](assets/vsilab_index.png){width=1200}
+![UA DataLab](assets/vsilab_index.png)
+
 Our laboratory focuses on research in computer vision, medical image analysis, and deep learning.
 
 ***
