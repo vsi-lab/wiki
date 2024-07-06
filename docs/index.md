@@ -3,7 +3,6 @@
 
 Our laboratory focuses on research in computer vision, medical image analysis, and deep learning.
 ![UA DataLab](assets/vsilab_index.png)
-
 ***
 ## Notes and code repositories
 These materials are provided by UArizona Datalab.
