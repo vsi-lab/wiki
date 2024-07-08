@@ -5,13 +5,12 @@ site_url: https://vsilab.github.io/wiki
 repo_name: 'UArizona Vision Systems and Intelligence Lab'
 repo_url: 'https://github.com/vsi-lab/wiki'
 nav:
-  - 'Home':
-    - 'Home': index.md
-    - 'About': about.md
-    - 'Resources':  resources.md
-    - 'Instruction': instructions.md
-    - 'FAQ': faq.md
-    - 'Tools': tools.md
+  - 'Home': index.md
+  - 'About': about.md
+  - 'Resources':  resources.md
+  - 'Instruction': instructions.md
+  - 'FAQ': faq.md
+  - 'Tools': tools.md
 
 theme:
   name: material
