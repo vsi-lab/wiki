@@ -15,7 +15,7 @@ nav:
 
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides/
    # setting features for the navigation tab
   features:
     - navigation.tabs
