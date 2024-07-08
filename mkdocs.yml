@@ -1,6 +1,6 @@
 site_name: VSI Lab
 site_description: Training materials on tools and methods for image analysis and deep learning. 
-site_url: https://vsilab.github.io
+site_url: https://vsilab.github.io/wiki
 
 repo_name: 'UArizona Vision Systems and Intelligence Lab'
 repo_url: 'https://github.com/vsi-lab/wiki'
@@ -15,6 +15,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
    # setting features for the navigation tab
   features:
     - navigation.tabs
@@ -39,7 +40,7 @@ theme:
   # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: gold
+      primary: blue grey
       accent: gold
       toggle:
         icon: material/brightness-3
