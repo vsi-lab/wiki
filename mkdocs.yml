@@ -12,6 +12,10 @@ nav:
   - 'FAQ': faq.md
   - 'Tools': tools.md
 
+
+extra_css:
+  - css/style.css
+
 theme:
   name: material
   # custom_dir: overrides/
