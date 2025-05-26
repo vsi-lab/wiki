@@ -26,7 +26,7 @@ These materials are provided by UArizona Datalab.
 
 ## UArizona VSI Lab Github 
 
-* [Github](https://github.com/vsilab/)
+* [Github](https://github.com/vsi-lab/)
 <!-- * [Linkedin](https://www.linkedin.com/company/100483432/admin/feed/posts/) -->
 <!-- * [Twitter/X](https://twitter.com/UArizonaDataLab) -->
 <!-- * [Facebook Page](https://www.facebook.com/profile.php?id=61556132138807) -->
