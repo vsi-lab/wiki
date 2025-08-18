@@ -1,0 +1,9 @@
+/* 2nd and 3rd level nested list bullets is hollow circle and square respectively */
+
+article ul ul {
+    list-style-type:  circle !important;
+}
+
+article ul ul ul {
+    list-style-type:  square !important;
+}
