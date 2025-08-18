@@ -1,6 +1,6 @@
 ## Guidelines for accessing VSI Lab Server
 
-Before attempting to connect to the lab server, ensure that you have received permission. Contact **Dr. Eung-Joo Lee** at `eungjoolee@arizona.edu` for access, and once you have permission, follow the
+Before attempting to connect to the lab server, ensure that you have received permission. Contact **Dr. Eungjoo Lee** at `eungjoolee@arizona.edu` for access, and once you have permission, follow the
 instructions below.
 
 1.  ### Establish VPN Connection
